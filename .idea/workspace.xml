@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbe10066-be2f-4c39-baed-c866f556122c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/45322725dfa33795ad48d717f0b5dff8.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/culture.html" beforeDir="false" afterPath="$PROJECT_DIR$/culture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/honor.html" beforeDir="false" afterPath="$PROJECT_DIR$/honor.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/join.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pro.html" beforeDir="false" afterPath="$PROJECT_DIR$/pro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speak.html" beforeDir="false" afterPath="$PROJECT_DIR$/speak.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +23,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\卓联官网\sun198986.github.io\js" />
       <recent name="D:\卓联官网\sun198986.github.io\images" />
     </key>
   </component>
@@ -49,7 +43,8 @@
       <updated>1627228202580</updated>
       <workItem from="1627228203882" duration="3022000" />
       <workItem from="1627393928721" duration="2829000" />
-      <workItem from="1627480832546" duration="747000" />
+      <workItem from="1627480832546" duration="6148000" />
+      <workItem from="1627565836208" duration="739000" />
     </task>
     <servers />
   </component>
