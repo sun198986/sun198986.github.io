@@ -59,7 +59,7 @@ em{font-style:normal;}
 .Phone-Box{ display: none; }
 
 /*头部导航*/
-.header{height: 1.1rem; width: 100%; position: absolute; top: 0px; z-index: 15; left: 0px; transition: all .3s ease-out 0s;} 
+.header{height: 1.1rem; width: 100%; position: absolute; top: 0px; z-index: 15; left: 0px; transition: all .3s ease-out 0s;}
 .header .wal{ height: 1.1rem; position: relative; }
 .header.mini{background:#fff;  z-index: 9999999999; } 
 .sortbar-fixed{ position: fixed; z-index: 9999999999; background: #fff;}
